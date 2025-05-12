@@ -11,5 +11,9 @@ Mi repositorio incluye estás carpetas con estos archivos:
 
 Resumen del desarrollo del proyecto:
 
+Inicialmente, cargué ambos archivos. En uno de ellos se indicaba información de clientes, distribuidos por diferentes pestañas según el año en el que se unieron. En el otro, había una única pestaña con información adicional de esos clientes. Empecé a hacer el análisis del primer archivo, juntando todas las pestañas en una única a través del método “Concat”, para tener el año de unión de todos los clientes en un mismo archivo.
+Después, empecé con la transformación del archivo poder analizarlo mejor, esto incluye limpieza de datos general para poder manejar y visualizar el archivo, y conocer los nulos que había, y el tipo de datos que presentaba cada columna. Después introduje nuevas columnas con el método “apply” que pudieran ayudar al análisis.
+
+Después, me puse a hacer exactamente el mismo trabajo con el otro archivo, el que contenía información general de todos los clientes. Una vez ambos Data Frames estaban limpios, organizados y estructurados, los junté a través del método “Merge”, por la columna de ID de cliente, coincidente en ambos.
 
 
