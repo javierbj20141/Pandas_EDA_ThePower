@@ -16,4 +16,14 @@ Después, empecé con la transformación del archivo poder analizarlo mejor, est
 
 Después, me puse a hacer exactamente el mismo trabajo con el otro archivo, el que contenía información general de todos los clientes. Una vez ambos Data Frames estaban limpios, organizados y estructurados, los junté a través del método “Merge”, por la columna de ID de cliente, coincidente en ambos.
 
+A continuación, comencé a hacer el análisis para sacar diferentes conclusiones del conjunto de datos. La manera en la que lo hice fue identificado variables especificas a través de las que pudieran sacarse conclusiones significativas. 
 
+Al principio sentí que iba poco a poco, haciendo tablas sencillas a través de “Group by”. No obstante, a medida que iba avanzando en el proyecto, empecé a crear tablas a través de “pivot table”, juntar varios Data Frames surgidos a través de dos Group by, creación de columna adicionales derivadas de operaciones aritméticas, etc. 
+
+Asimismo, en el aspecto de la visualización, he tratado de ser cuidadoso y preciso en la representación y creación de gráficas, siempre tratando de representar conclusiones significativas, y hacerlo a través de los gráficos más lógicos para la representación de cada conjunto de datos, combinando el uso de Matplotib y Seaborn.
+
+En definitiva, considero que empecé poco a poco con análisis básicos, pero a medida que iba avanzando, conseguí hacer análisis y representaciones más significativas. Además, según avanzaba, se me iban ocurriendo nuevas variables en base a las que se podían analizar los datos, lo que considero que ha provocado un análisis más completo y organizado.
+
+Muchas gracias por vuestro tiempo
+
+Javier Bartolomé Jalvo
