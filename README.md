@@ -1,5 +1,5 @@
-# Bienvenidos a mi proyecto de Analisis exploratorio de datos, utilizando la libreria Pandas 😃
-# Pero antes...una foto con un poco de humor 📊😄
+#  Limpieza y analisis de datos (EDA), utilizando la libreria Pandas 😃
+
 ![Imagen graciosa](Pandas.jpg)
 Mi repositorio incluye estás carpetas con estos archivos:
 
