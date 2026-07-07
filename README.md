@@ -1,6 +1,6 @@
 #  Limpieza y analisis de datos (EDA), utilizando la libreria Pandas 😃
 
-<p align="center">2  <img src="Pandas.jpg" width="250">3</p>
+  <img src="Pandas.jpg" width="250"> </p>
 
 
 Mi repositorio incluye estás carpetas con estos archivos:
