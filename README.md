@@ -1,4 +1,4 @@
-#  Limpieza y analisis de datos (EDA), utilizando la libreria Pandas 😃
+#  Limpieza y analisis de datos (EDA), con Pandas 😃
 
   <img src="Pandas.jpg" width="250"> </p>
 
